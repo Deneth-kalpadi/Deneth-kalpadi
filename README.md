@@ -1,133 +1,83 @@
 <div align="center">
 
-# 👋 Hey, I'm **Deneth Kalpadi**
+👋 Hi, I'm Deneth Kalpadi
+💻 Software Engineer | Developer | Lifelong Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;C%2B%2B+%7C+Java+%7C+Python+%7C+React;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Software+Engineering+%F0%9F%92%BB;Building+%26+Learning+Every+Day+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/Deneth-kalpadi">
-<img src="https://komarev.com/ghpvc/?username=Deneth-kalpadi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/Deneth-kalpadi?tab=followers">
-<img src="https://img.shields.io/github/followers/Deneth-kalpadi?label=Followers&style=for-the-badge&color=236ad3" />
-</a>
+<a href="https://github.com/Deneth-kalpadi"> <img src="https://komarev.com/ghpvc/?username=Deneth-kalpadi&style=for-the-badge&color=blue" alt="Profile Views"/> </a>
 
 </div>
 
----
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+I'm Deneth Kalpadi, a software engineering enthusiast from Sri Lanka 🇱🇰 who enjoys programming, building applications, and learning new technologies.
 
-```java
-public class Deneth {
+I enjoy turning ideas into working software and continuously improving my problem-solving and development skills.
 
-    String name = "Deneth Kalpadi";
-    String role = "Software Engineer";
-    String location = "Sri Lanka 🇱🇰";
+💻 Interested in Software Development
+🌐 Exploring Web Development
+🧠 Improving Data Structures & Algorithms
+🚀 Building projects and experimenting with new technologies
+📚 Continuously learning and improving
+🇱🇰 Based in Sri Lanka
+🛠️ Technologies I Use
+💻 Programming Languages
 
-    String[] languages = {
-        "C++",
-        "Java",
-        "Python",
-        "JavaScript"
-    };
+<p> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" alt="Programming Languages"/> </p>
 
-    String[] frontend = {
-        "React",
-        "HTML",
-        "CSS"
-    };
+🌐 Web Development
 
-    String[] learning = {
-        "TypeScript",
-        "Node.js",
-        "SQL",
-        "Docker",
-        "Cloud",
-        "System Design"
-    };
+<p> <img src="https://skillicons.dev/icons?i=html,css,react" alt="Web Technologies"/> </p>
 
-    String mindset =
-        "Learn → Build → Break → Fix → Repeat 🚀";
-}
-```
+🌱 Currently Learning
 
-I'm a **software engineering enthusiast** who enjoys building applications, solving programming problems, and exploring new technologies.
+<p> <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,postgresql,mongodb,docker,git,github,linux" alt="Currently Learning"/> </p>
 
-I’m currently expanding my skills across **frontend, backend, databases, cloud technologies, and system design**.
+I'm currently expanding my knowledge in:
 
----
-
-# ⚡ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### 🌱 Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,express,postgresql,mysql,docker,git,github,linux" />
-</p>
-
-> 🚀 Always exploring new technologies and improving my development skills.
-
----
-
-# 🛠️ What I'm Interested In
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  💻 Software Development                     │
-│  🌐 Full-Stack Web Development               │
-│  🧠 Data Structures & Algorithms             │
-│  ⚙️ Backend Development                      │
-│  ☁️ Cloud & DevOps                           │
-│  🏗️ System Design                            │
-│  🤖 Artificial Intelligence                  │
-│  🔐 Cybersecurity                            │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# 🚀 Featured Projects
+⚛️ Advanced React
+📘 TypeScript
+🟢 Node.js & Express
+🗄️ SQL & NoSQL databases
+🐳 Docker
+🐧 Linux
+🔧 Git & GitHub
+☁️ Cloud technologies
+🏗️ System Design
+🚀 My Development Journey
+             ┌───────────────┐
+             │    LEARN 📚   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    BUILD 🔨   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │  EXPERIMENT 🧪│
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   IMPROVE 📈  │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   REPEAT 🔥   │
+             └───────────────┘
+📊 GitHub Stats
 
 <div align="center">
 
-### 🔥 Coming Soon...
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deneth-kalpadi&show_icons=true&theme=tokyonight&hide_border=true" alt="Deneth's GitHub Stats"/>
 
-I'm constantly building and experimenting with new projects.
-
-Check out my repositories to see what I'm working on 👇
-
-<a href="https://github.com/Deneth-kalpadi?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deneth-kalpadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneth-kalpadi&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneth-kalpadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -135,99 +85,57 @@ Check out my repositories to see what I'm working on 👇
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Deneth-kalpadi&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Deneth-kalpadi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
----
-
-# 🐍 My Contribution Journey
+📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Deneth-kalpadi/Deneth-kalpadi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneth-kalpadi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
----
-
-# 📈 GitHub Activity
+🎯 Goals
+╔══════════════════════════════════════════════╗
+║              MY DEVELOPMENT GOALS            ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  ✓ Improve programming fundamentals          ║
+║  ✓ Build real-world applications             ║
+║  → Master modern web development              ║
+║  → Improve backend development                ║
+║  → Learn system design                       ║
+║  → Explore cloud technologies                ║
+║  → Contribute to open source                 ║
+║  → Become a better software engineer         ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+💡 Developer Philosophy
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneth-kalpadi&theme=tokyo-night&hide_border=true&area=true" />
+"Every expert was once a beginner."
+
+Learn → Build → Fail → Fix → Improve → Repeat 🚀
 
 </div>
 
----
-
-# 🎯 2026 Goals
-
-```text
-☐ Become a stronger software engineer
-☐ Build production-ready applications
-☐ Improve Data Structures & Algorithms
-☐ Master React & modern frontend development
-☐ Learn backend architecture
-☐ Build REST APIs
-☐ Learn Docker & Cloud technologies
-☐ Improve System Design skills
-☐ Contribute to Open Source
-☐ Build projects that solve real problems
-```
-
----
-
-# 🧠 My Developer Mindset
-
-> **"Don't just learn technology. Build something with it."**
-
-```text
-             ┌─────────────┐
-             │    LEARN    │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │    BUILD    │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │    BREAK    │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │    FIX      │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │    GROW     │
-             └──────┬──────┘
-                    ↓
-                   🚀
-```
-
----
-
-# 🌐 Connect With Me
+🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/Deneth-kalpadi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/Deneth-kalpadi"> <img src="https://img.shields.io/badge/GitHub-Deneth--kalpadi-181717?style=for-the-badge&logo=github" alt="GitHub"/> </a>
 
-<a href="https://www.linkedin.com/in/deneth-ranathunga-621535343">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/deneth-ranathunga-621535343"> <img src="https://img.shields.io/badge/LinkedIn-Deneth%20Ranathunga-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a>
 
 </div>
 
----
-
 <div align="center">
 
-### 💻 Code. Learn. Build. Repeat. 🚀
+⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer"/>
 
 </div>
